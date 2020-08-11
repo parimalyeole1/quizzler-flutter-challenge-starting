@@ -1,19 +1,14 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-# Quizzler Challenge - Starting Files
+## What you will use
 
-- Clone this repository to your local system.
+- Modularising your code into separate classes.
+- Dart classes and objects.
+- Using class constructors.
+- Extracting Widgets to refactor your code.
+- private and public modifiers in Dart.
+- How to use Dart lists.
+- The difference between var, const and final.
 
-- Read the docs for the package we're using:
-
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+ 
