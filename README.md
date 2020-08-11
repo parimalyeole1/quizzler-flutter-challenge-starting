@@ -10,5 +10,6 @@
 - private and public modifiers in Dart.
 - How to use Dart lists.
 - The difference between var, const and final.
+- use of ListView widget for horizontal scrolling
 
  
