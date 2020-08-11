@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//TODO: Step 2 - Import the rFlutter_Alert package here.
+
 import 'quiz_brain.dart';
 
 QuizBrain quizBrain = QuizBrain();
@@ -11,6 +11,16 @@ class Quizzler extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.white70,
+          title: Text(
+            'Quizzler',
+            style: TextStyle(
+              fontSize: 25,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+        ),
         backgroundColor: Colors.grey.shade900,
         body: SafeArea(
           child: Padding(
